@@ -1,6 +1,6 @@
 # Remember
 
-Aplicacion para la la construccion y reconstruccion de recuerdos - experiencias vividas a traves de eventos
+Aplicacion para la construccion y reconstruccion de recuerdos - experiencias vividas a traves de eventos
 
 Remember es una aplicación inteligente, diseñada con el propósito de ayudar a personas con predisposición a sufrir trastornos de pérdida de memoria, sea por hábitos de vida que la afecten o patologías que presentan este tipo de epicrisis, en especial diseñada para personas adultas mayores con presencia de demencia senil o alzahimer, inclusive.
 
